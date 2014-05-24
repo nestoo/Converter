@@ -1,0 +1,11 @@
+PdfToHtmlConverter Changelog
+===================
+
+Changes in version 0.1 (2014-05-25)
+---------------------------------
+* Packages and source code have been created
+
+
+Version 0.1
+-----------
+Initial alpha version
